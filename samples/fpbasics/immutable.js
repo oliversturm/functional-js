@@ -1,7 +1,9 @@
 // When running this code in VS Code, the debugger sometimes behaves strangely
 // and misses some of the content from the console.log instructions below.
 // Try running outside the debugger (Ctrl-F5) to make sure you see all
-// the output. (VS Code 1.26.1)
+// the output. (VS Code 1.32.3)
+// Very weird really - is there some multi-threading thing going on here
+// that I don't see?
 
 const Im = require('seamless-immutable');
 
